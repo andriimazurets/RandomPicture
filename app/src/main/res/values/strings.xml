@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RandomPicture</string>
+    <string name="main_btn_text">Get random image</string>
+    <string name="enter_image_keyword">Enter image keyword</string>
+    <string name="use_keyword">Use keyword</string>
+</resources>

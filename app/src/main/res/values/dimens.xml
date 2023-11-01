@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="defaultSizeImage">250dp</dimen>
+    <dimen name="largeSizeImageWidth">300dp</dimen>
+    <dimen name="largeSizeImageHeight">300dp</dimen>
+    <dimen name="defaultPadding">16dp</dimen>
+    <dimen name="marginVertical">20dp</dimen>
+    <dimen name="normalText">16sp</dimen>
+</resources>

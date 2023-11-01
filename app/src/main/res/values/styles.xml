@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="mainImageStyle">
+        <item name="android:layout_width">@dimen/largeSizeImageWidth</item>
+        <item name="android:layout_height">@dimen/largeSizeImageHeight</item>
+        <item name="android:background">@drawable/background_shape</item>
+        <item name="android:padding">@dimen/defaultPadding</item>
+    </style>
+
+    <style name="mainButtonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/background_shape</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+</resources>
